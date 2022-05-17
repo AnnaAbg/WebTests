@@ -7,11 +7,11 @@ import org.testng.annotations.Test;
 
 public class WebTest {
     // Test Case:
-    // 1. Open the page "http://www.99-bottles-of-beer.net/";
-    // 2. Click on menu "Browse languages";
-    // 3. Click on menu "Start";
-    // 4. Verify that user sees the title "Welcome to 99 Bottles of Beer";
-    // 5. Close the browser.
+    // 1. Open the page "http://www.99-bottles-of-beer.net/"
+    // 2. Click on menu "Browse languages"
+    // 3. Click on menu "Start"
+    // 4. Verify that user sees the title "Welcome to 99 Bottles of Beer"
+    // 5. Close the browser
 
 
     @Test
