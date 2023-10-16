@@ -81,6 +81,7 @@ public class RefactoredTest {
         for (WebElement p : pAll) {
             actualResult.append(p.getText());
         }
+
         Assert.assertEquals(actualResult.toString(), expectedResult);
     }
 }
