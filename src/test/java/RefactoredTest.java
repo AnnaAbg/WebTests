@@ -56,7 +56,6 @@ public class RefactoredTest {
         getBottles(lyrics, 99, BOTTLES_DOT);
 
         return lyrics.toString();
-
     }
 
     @Test
