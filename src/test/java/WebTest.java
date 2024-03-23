@@ -44,6 +44,5 @@ public class WebTest {
         Assert.assertEquals(actualResult, expectedResult);
 
         driver.quit();
-
     }
 }
